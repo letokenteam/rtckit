@@ -4,6 +4,7 @@ version '1.0'
 buildscript {
     repositories {
         google()
+        maven { url "https://jitpack.io" }
         mavenCentral()
     }
 
